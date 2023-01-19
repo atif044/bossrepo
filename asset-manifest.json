@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/bossrepo/static/css/main.30214d1c.css",
+    "main.js": "/bossrepo/static/js/main.b135e164.js",
+    "static/js/787.fe1675bb.chunk.js": "/bossrepo/static/js/787.fe1675bb.chunk.js",
+    "static/media/mobile.png": "/bossrepo/static/media/mobile.e671955383df2dab20d8.png",
+    "static/media/Background.png": "/bossrepo/static/media/Background.948484e2eadf7780a1e7.png",
+    "static/media/orderBg.png": "/bossrepo/static/media/orderBg.4b25b0e56158533e7443.png",
+    "static/media/spider.png": "/bossrepo/static/media/spider.b1b69158219a800e2f2a.png",
+    "static/media/h1.png": "/bossrepo/static/media/h1.ea392e8843b0b12ab437.png",
+    "static/media/h2.png": "/bossrepo/static/media/h2.897bd68e3ae11b2a1e19.png",
+    "static/media/h3.png": "/bossrepo/static/media/h3.3f00052c605fa912901c.png",
+    "static/media/f1.png": "/bossrepo/static/media/f1.1a530eb8c7aa4d3ebf13.png",
+    "static/media/t2.png": "/bossrepo/static/media/t2.5c51e8afd3bb09785926.png",
+    "static/media/f2.png": "/bossrepo/static/media/f2.b830b7ac0628c2937263.png",
+    "static/media/c.png": "/bossrepo/static/media/c.07f328e9211402d97ffd.png",
+    "static/media/t1.png": "/bossrepo/static/media/t1.bdd78e77f07af9205bb9.png",
+    "static/media/t3.png": "/bossrepo/static/media/t3.c6b9a97389de3eb56a7b.png",
+    "static/media/avatar.png": "/bossrepo/static/media/avatar.068a89031aff63483ce0.png",
+    "static/media/social.png": "/bossrepo/static/media/social.445e55ea15cd76c751ac.png",
+    "static/media/account.png": "/bossrepo/static/media/account.4c667a291f307790ef53.png",
+    "static/media/faq1.jpeg": "/bossrepo/static/media/faq1.11d99487fbfb51bdd6d6.jpeg",
+    "static/media/e1.png": "/bossrepo/static/media/e1.8558a4f561fdb80bd294.png",
+    "static/media/p2.png": "/bossrepo/static/media/p2.93e7a75917b1c94094e2.png",
+    "static/media/p1.png": "/bossrepo/static/media/p1.c050d9ea7a61a0927ee8.png",
+    "index.html": "/bossrepo/index.html",
+    "main.30214d1c.css.map": "/bossrepo/static/css/main.30214d1c.css.map",
+    "main.b135e164.js.map": "/bossrepo/static/js/main.b135e164.js.map",
+    "787.fe1675bb.chunk.js.map": "/bossrepo/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30214d1c.css",
+    "static/js/main.b135e164.js"
+  ]
+}
