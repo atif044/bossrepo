@@ -18,7 +18,7 @@ function App() {
     <>
     <NoteState>
 
-    <Router>
+    
     <NavBar2/>
     <Routes>
       <Route exact path='/' element={<Home/>}/>
@@ -38,9 +38,7 @@ function App() {
         </Route>
         <Route exact path='/*' element={<h1>Doesnt exist</h1>}/>
     </Routes>
-
-
-    </Router>
+   
     </NoteState>
 
     </>
