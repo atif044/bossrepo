@@ -1,0 +1,9 @@
+<div>
+
+            <div style={{backgroundColor:"rgb(217,217,217)",width:"100%"}}>
+        <div >
+            </div>
+       <HiUser/>
+    <input  placeholder='Username'/>
+</div>   
+         </div>

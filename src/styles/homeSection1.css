@@ -1,0 +1,692 @@
+.homesection1-main {
+    margin: 3%;
+    position: relative;
+    height: 100%;
+    padding-top: 25px;
+}
+
+.row1 {
+    text-align: center;
+    padding: 2%;
+    height: 100%;
+}
+
+.col1 {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.col2 {
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 10%;
+}
+
+.col1 img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 12%;
+}
+
+.homesection2-main {
+    margin: 3%;
+    position: absolute;
+    margin-top: 35%;
+}
+
+.homesection3-main {
+    margin: 3%;
+    position: absolute;
+    margin-top: 80%;
+}
+
+.section3-button {
+    margin-top: 48%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section3-button button {
+    border-style: none;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: rgb(231, 187, 220);
+
+}
+
+.homesection4-main {
+    margin: 3%;
+    position: relative;
+    margin-top: 135%;
+    padding-left: 10%;
+
+}
+
+.section4-img4 {
+    /* float: left; */
+
+    width: 50%;
+    height: 100%;
+    padding: 5%;
+}
+
+.section4-img4 img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.section4-img5 {
+    /* float: left; */
+    width: 50%;
+    height: 100%;
+    padding: 5%;
+}
+
+.section4-img5 img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.sect4-main-row {
+    float: left;
+}
+
+.sect4-row1 {
+    height: 100%;
+    float: left;
+    width: 50%;
+}
+
+.sect4-row2 {
+    height: 100%;
+    width: 50%;
+
+    float: left;
+}
+
+.section4-pgh p {
+    text-align: center;
+    padding: 4%;
+    margin-right: 6%;
+}
+
+.section4-button {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 6%;
+
+}
+
+.section4-button button {
+    border-style: none;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: rgb(231, 187, 220);
+
+}
+
+.sect4-features {
+    margin-top: 5%;
+}
+
+.feat-col1 img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+
+}
+
+.feat-col1 {
+    float: left;
+    width: 15%;
+    padding: 2%;
+}
+
+.feat-col2 {
+    float: left;
+    width: 70%;
+    padding: 2%;
+
+}
+
+.feature-row2 {
+    margin-top: 19%;
+}
+
+.feature-row3 {
+    margin-top: 37%;
+}
+
+
+
+/* homesection5-main */
+.homesection5-main {
+    margin-top: 17%;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.homesection5-main h5,
+.homesection5-main h3 {
+    color: rgb(0, 119, 255);
+}
+
+.sect5-col1 {
+    float: left;
+    width: 29%;
+    border: 7px solid rgb(212, 247, 252);
+    box-shadow: 0 0 15px rgb(44, 169, 227);
+    /* box-shadow: 0 0  17px rgb(44, 169, 227) inset; */
+    border-radius: 8%;
+    margin-left: 3%;
+}
+.sect5-card{
+    box-shadow: 0 0  17px rgb(44, 169, 227) inset;
+    border-radius: 7%;
+
+}
+.sect5-price {
+    font-size: 325%;
+    font-weight: bolder;
+}
+
+.sect5-hr-line {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.sect5-card {
+    padding: 2%;
+}
+
+.sect5-card h2 {
+    letter-spacing: 0.1em;
+    font-weight: bolder;
+}
+.h1price{
+    color: green;
+    font-weight: bolder;
+}
+
+/* section 6 */
+.homesection6-main {
+    position: absolute;
+    width: 100%;
+    margin-top: 70%;
+    padding: 4%;
+}
+
+.sect6-col1 {
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    border-right: 5px solid black;
+}
+
+.sect6-col1 p {
+    font-weight: 600;
+}
+
+.sect6-col2 {
+    float: left;
+    width: 45%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.sect6-col2 p {
+    font-weight: 600;
+}
+
+.sect6-img {
+    padding-left: 20%;
+}
+
+.homesection7-main {
+    margin-top: 2%;
+    padding-top: 0%;
+}
+.faq{
+    text-align: center;
+    justify-content:center ;
+    align-items: center;
+}
+.faq-col img{
+    object-fit: cover;
+    width: 26%;
+
+}
+.faq-row{
+    float: left;
+    padding-top: 2%;
+}
+.faq-col{
+    float: left;
+    width: 40%;
+}
+.faq-img1{
+    position: absolute;
+    
+}
+.faq-img2{
+    margin-right: -10%;
+    margin-top: 8%;
+    margin-left: 50%;
+    align-items: center;
+    position: relative;
+}
+.faq-img2-text{
+    
+    margin-left: 50%;
+    margin-right: -13%;
+    padding-left: 5%;
+    align-items: center;
+}
+.faq-h2{
+    color: rgb(0, 119, 255);
+    margin-top: 13%;
+}
+.faq-col-1 p{
+    padding-top: 3%;
+}
+
+.question img{
+    float: left;
+    object-fit: cover;
+width: 4%;
+background: none;
+}
+.question h1{
+    color: rgb(0, 119, 255);
+
+    margin-top: 25%;
+    padding-top: 10%;
+padding: 3%;
+}
+.question h4{
+    padding: 1%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text-a-c {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1100px) {
+    .homesection7-main {
+        margin-top: 2%;
+        padding-top: 5%;
+    }
+
+    .homesection6-main {
+        margin-top: 74%;
+    }
+    .faq-col img{
+        object-fit: cover;
+        width: 29%;
+    
+    } .faq-img2-text{
+        margin-right: -75px;
+        
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .homesection6-main {
+        margin-top: 84%;
+    }
+    .homesection7-main {
+        margin-top: 3%;
+        padding-top: 5%;
+    }
+    .faq-col img{
+        object-fit: cover;
+        width: 32%;
+    
+    }
+    .faq-img2{
+        margin-right: -28%;
+        
+    }
+    .faq-img2-text{
+        margin-right: -30%;
+        
+    }
+}
+
+
+
+@media only screen and (max-width: 900px) {
+    .homesection5-main {
+        margin-top: 22%;
+    }
+
+    .homesection6-main {
+        margin-top: 105%;
+    }
+
+    .homesection7-main {
+        margin-top: 7%;
+        padding-top: 7%;
+    }
+
+    .feature-row2 {
+        margin-top: 26%;
+    }
+
+    .feature-row3 {
+        margin-top: 54%;
+    }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .col1,
+    .col2 {
+        float: none;
+        width: 100%;
+    }
+
+    .imgh1 img {
+        padding: 0px;
+    }
+    .faq-h2{
+        margin-top: 0%;
+    }
+    
+    .homesection2-main {
+        margin-top: 1%;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .homesection3-main {
+        margin-top: 100%;
+        padding: 7%;
+    }
+
+    .homesection3-main h1 {
+        padding-top: 10%;
+    }
+
+    .homesection3-no {
+        margin-top: 10%;
+    }
+
+    .section3-button {
+        margin-top: 4%;
+    }
+
+    .homesection4-main {
+        padding-top: 105%;
+    }
+
+    .feature-row2 {
+        padding-top: 22%;
+    }
+
+    .feature-row3 {
+        margin-top: 52%;
+    }
+
+    .homesection5-main {
+        margin-top: 36%;
+
+    }
+
+    .homesection6-main {
+        margin-top: 155%;
+    }
+
+    .homesection7-main {
+        margin-top: 4%;
+    }
+    .faq-col{
+        float: none;
+        width: 100%;
+    }
+    .faq-col img{
+        width: 25%;
+    }
+    .faq-img2{
+        margin-top: 3%;
+        margin-left: -80px;
+        
+    }
+    .faq-img1{
+        margin-left: -50px;
+
+    }
+    .faq-col-img2 img{
+        width: 10%;
+    }
+    .faq-img2-text{
+    
+        display: none;
+    }
+    .question{
+        margin-top: 168%;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 640px) {
+    .homesection6-main {
+        margin-top: 185%;
+    }
+
+    .homesection7-main {
+        margin-top: 5%;
+    }
+    .question{
+        margin-top: 210%;
+    }
+
+}
+
+@media only screen and (max-width: 520px) {
+
+    .col1,
+    .col2 {
+        float: none;
+        width: 100%;
+    }
+    
+    
+    .faq-img2{
+        margin-top: 4%;
+        margin-left: -85px;
+        
+    }
+    .faq-img1{
+        margin-left: -50px;
+
+    }
+    .faq-col-img2 img{
+        width: 15%;
+    }
+
+
+    /* .homesection3-main {
+        margin-top: 110%;
+    } */
+
+    .homesection3-main h1 {
+        margin-top: 40%;
+        padding-top: 12%;
+    }
+
+    .homesection3-no {
+        margin-top: 70%;
+    }
+
+    .homesection4-main {
+        padding-top: 180%;
+    }
+
+    .sect4-main-row {
+        float: none;
+    }
+
+    .sect4-row1 {
+        height: 100%;
+        float: none;
+        width: 100%;
+        padding: 4%;
+
+    }
+
+    .sect4-row2 {
+        height: 100%;
+        width: 100%;
+        padding: 4%;
+        float: none;
+    }
+
+    .feature-row2 {
+        padding-top: 42%;
+        margin-top: 34%;
+    }
+
+    .feature-row3 {
+        padding-top: 22%;
+        margin-top: 58%;
+    }
+
+
+
+    .homesection5-main {
+        margin-top: 70%;
+    }
+
+    .sect5-col1 {
+        float: none;
+        width: 95%;
+        margin-top: 2%;
+    }
+
+    .homesection6-main {
+        margin-top: 480%;
+    }
+
+    .sect6-col1 {
+        float: none;
+        width: 100%;
+        border-right: none;
+        margin-top: 4%;
+
+    }
+
+    .sect6-col2 {
+        float: none;
+        width: 100%;
+        margin-top: 4%;
+
+    }
+
+    .homesection7-main {
+        margin-top: 3%;
+    }
+    .question{
+        margin-top: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width: 410px) {
+    .homesection6-main {
+        margin-top: 495%;
+    }
+
+    .homesection3-main {
+        margin-top: 110%;
+    }
+
+    .homesection7-main {
+        margin-top: 6%;
+    }
+    .faq-img2{
+        margin-top: 3%;
+        margin-left: -85px;
+        
+    }
+    .question{
+        margin-top: 115%;
+    }
+
+}
+
+@media only screen and (max-width: 370px) {
+    .homesection6-main {
+        margin-top: 540%;
+    }
+
+    .homesection3-main {
+        margin-top: 130%;
+    }
+
+    .homesection3-main h1 {
+        margin-top: 130%;
+        padding-top: 12%;
+    }
+
+    .homesection4-main {
+        padding-top: 230%;
+    }
+
+    .feature-row2 {
+        padding-top: 52%;
+        margin-top: 38%;
+    }
+
+    .feature-row3 {
+        padding-top: 32%;
+        margin-top: 65%;
+    }
+
+    .homesection7-main {
+        margin-top: 1%;
+    }
+    .question{
+        margin-top: 125%;
+    }
+
+
+
+}
